@@ -1,6 +1,6 @@
 ---
 title: Baobao Zhang
-image: img/Baobao_zhang.jpg
+image: img/baobao_zhang.jpg
 page-layout: full
 about:
   template: trestles
