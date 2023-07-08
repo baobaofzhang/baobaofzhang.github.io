@@ -1,0 +1,28 @@
+---
+title: "Teaching + Mentoring"
+editor: visual
+---
+
+# Teaching
+
+### Governance and Ethics of Artificial Intelligence
+
+I am currently teaching "Governance and Ethics of Artificial Intelligence" at Syracuse University. It is an upper-level undergraduate seminar that I designed.
+
+This class uses a cross-disciplinary approach to study how tech companies, national governments, international organizations, and civil society groups could manage the development and deployment of AI in the public interest. The class material draws upon research in political science, public policy, philosophy, legal studies, economics, and computer science. Topics include algorithmic fairness; privacy, transparency, and safety; automation and the future of work; the impact of AI on international security.
+
+In recent years, the ethics of AI has become a burgeoning field of study, with various institutions articulating AI ethics principles. But as tech companies and governmental bodies seek to implement policies to manage the technology, how to govern AI has become a deeply political question. While this class touches on the central debates in AI ethics, it emphasizes the political and public policy dimensions of AI governance.
+
+[Course Syllabus](https://docs.google.com/document/u/2/d/e/2PACX-1vQYWBhhj_vHimJJ_mHmD0aL_n5KJ6zrnNe-x4KBJOQjHT_B2ike1a4MM9AYVvETRA/pub)
+
+### Introduction to American Politics
+
+I taught "Introduction to American Politics" during [Yale Summer Session](https://summer.yale.edu/) 2018. In my role as lecturer, I designed the syllabus, delivered lectures, led interactive workshops, and evaluated all student works.
+
+The course was an introduction to the study of American government and politics. In five short weeks, the course covered a wide range of topics, including the constitutional foundations of the U.S., political institutions, mass politics, the media, political parties, and interest groups. Students explored other topics of interest to them through essay assignments. Besides acquiring substantive knowledge about American politics, students also learned how to think like political scientists by reading and discussing contemporary works in the discipline.
+
+[Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vRv2bocm-yhutEG1XlfyhxS9LdhpEZX27smg8v-Ig3uNkvje0dLAbKkDQJCzTOPIME6C97biM7ojHyV/pub)
+
+# Mentoring
+
+If you would like me to write you a **letter of recommendation**, please email me at least two weeks before the deadline. If I agree to write you a letter of recommendation, please fill out this [Google Form](https://forms.gle/V4mu53GAJg6iQoVX9) to provide me the necessary information to write you the letter of recommendation. Thank you!

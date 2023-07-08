@@ -1,0 +1,46 @@
+---
+title: "Research"
+editor: visual
+---
+
+## Publications
+
+1.  Baobao Zhang, 2022. "[No Rage Against the Machines: Threat of Automation Does Not Change Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455501)." *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*.
+
+2.  **Baobao Zhang**, 2021. ["Public Opinion Toward Artificial Intelligence](https://osf.io/284sm/)." Forthcoming in the *Oxford Handbook of Artificial Intelligence Governance*.
+
+3.  **Baobao Zhang**, Markus Anderljung, Lauren Kahn, Noemi Dreksler, Michael C. Horowitz, and Allan Dafoe, 2021. ["Ethics and Governance of Artificial Intelligence Evidence from a Survey of Machine Learning Researchers](https://doi.org/10.1613/jair.1.12895)." *Journal of Artificial Intelligence Research*, 71, 591--666.
+
+4.  Julio S. Solís Arce, \..., **Baobao Zhang**, \..., Ahmed Mushfiq Mobarak, 2021. ["COVID-19 Vaccine Acceptance and Hesitancy in Low and Middle Income Countries, and Implications for Messaging."](https://www.medrxiv.org/content/10.1101/2021.03.11.21253419v1) *Nature Medicine*, 27, 1385-1394.
+
+5.  Remco Zwetsloot, **Baobao Zhang**, Noemi Dreksler, Lauren Kahn, Markus Anderljung, Allan Dafoe, and Michael C. Horowitz, 2021. "[Skilled and Mobile: Survey Evidence of Immigration Preferences of AI Researchers](https://arxiv.org/abs/2104.07237)." *Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society*.
+
+6.  **Baobao Zhang**, Sarah Kreps, Nina McMurry, and R. Miles McCain, 2020. "[Americans' Perceptions of Privacy and Surveillance in the COVID-19 Pandemic](https://doi.org/10.1371/journal.pone.0242652)." *PLoS ONE* 15(12): e0242652. [Replication files](https://doi.org/10.7910/DVN/5UEFP6). Coverage in [*Bloomberg*](https://www.bloomberg.com/news/articles/2020-08-12/why-are-americans-so-uneasy-about-contact-tracing) and [*IEEE Spectrum*](https://spectrum.ieee.org/the-human-os/biomedical/devices/survey-finds-americans-skeptical-of-contact-tracing-apps); shared with the World Health Organization.
+
+7.  Sarah Kreps, Sandip Prasad, \..., **Baobao Zhang**, Douglas L. Kriner. "[Factors Associated with US Adults\' Likelihood of Accepting COVID-19 Vaccination: Evidence from a Choice-Based Conjoint Analysis](https://doi.org/10.1001/jamanetworkopen.2020.25594)." *JAMA Network Open*, 2020;3(10):e2025594. [Replication files](https://doi.org/10.7910/DVN/6BSJYP); [journal commentary](https://doi.org/10.1001/jamanetworkopen.2020.25672). Coverage by [*USA Today*](https://www.usatoday.com/story/news/health/2020/10/20/covid-us-willingness-take-vaccine-depends-efficacy-politics/5993550002/) and [*Vox*](https://www.vox.com/21528373/vaccine-covid-19-trial-effective-safety).
+
+8.  **Baobao Zhang** and Matto Mildenberger, 2020. "[Scientists' Political Behaviors Are Not Driven by Individual-level Government Benefits](https://doi.org/10.1371/journal.pone.0230961)." *PLOS One*, 15(5):e0230961. [Replication files](https://doi.org/10.7910/DVN/HVKKHL).
+
+9.  **Baobao Zhang** and Allan Dafoe, 2020. "[U.S. Public Opinion on the Governance of Artificial Intelligence](https://doi.org/10.1145/3375627.3375827)." *Proceedings of the 2020 AAAI/ACM Conference on AI, Ethics, and Society*. [Replication files](https://doi.org/10.7910/DVN/SGFRYA).
+
+10. Allan Dafoe, Sophia Hatz, and **Baobao Zhang**, 2020. "[Coercion and Provocation](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/0BFI9L/MB806I&version=2.0)." Forthcoming at the *Journal of Conflict Resolution*. [Replication files](https://doi.org/10.7910/DVN/0BFI9L).
+
+11. **Baobao Zhang**, Matto Mildenberger, Peter D. Howe, Jennifer Marlon, Seth Rosenthal, Anthony Leiserowitz, 2020. "[Quota Sampling Using Facebook Advertisements](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/XTXS4P/BB6YPI&version=1.0)," *Political Science Research and Methods*, 8(3), 558-564. [Replication files](https://doi.org/10.7910/DVN/XTXS4P).
+
+12. **Baobao Zhang**, Sander van der Linden, Matto Mildenberger, Peter D. Howe, Jennifer Marlon, and Anthony Leiserowitz, 2018. "[Experimental Effects of Climate Messages Vary Geographically](https://www.nature.com/articles/s41558-018-0122-0)." *Nature Climate Change*, 8, 370--374. [Journal commentary.](https://www.nature.com/articles/s41558-018-0143-8)
+
+13. Allan Dafoe, **Baobao Zhang**, and Devin Caughey, 2018. "[Information Equivalence in Survey Experiments](https://doi.org/10.1017/pan.2018.9)." *Political Analysis*, 26(4), 399-416. [Replication files](https://doi.org/10.7910/DVN/KVZXE8).
+
+14. Katja Grace, John Salvatier, Allan Dafoe, **Baobao Zhang**, and Owain Evans, 2018. "[Viewpoint: When Will AI Exceed Human Performance? Evidence from AI Experts](https://doi.org/10.1613/jair.1.11222)." *Journal of Artificial Intelligence Research*, 62, 729-754. [No. 16 on Altmetric's top 100 most-discussed articles of 2017.](https://www.altmetric.com/top100/2017/#list&article=20475804)
+
+15. With Mowafi, Hani et al., 2016. "[Results of a Nationwide Capacity Survey of Hospitals Providing Trauma Care in War-affected Syria](https://www.ncbi.nlm.nih.gov/pubmed?term=27332144)." *JAMA Surgery*, 151(9), 815-822.
+
+## Works in Progress/Under Review
+
+1.  David Knight and **Baobao Zhang**. "Housing Mobility Program Produces Two-decade Decrease in Electoral Participation Among Disadvantaged Adults."
+
+2.   Hani Mowafi, Mahmoud Hariri, **Baobao Zhang**, \..., Anas Al-Kassem. "Analysis of 193,618 Trauma Patient Presentations in War-affected Syria from July 2013 to July 2015."
+
+## Dissertation
+
+My PhD dissertation "[Three Essays on the Politics of American Social Programs](https://thesiscommons.org/7aytg/)" presents experimental and quasi-experimental studies that examined the drivers of Americans' attitudes toward social programs. The first and second essays sought to understand how benefiting social programs (e.g., Medicare and governmental scholarships) affected voters\' political attitudes and behavior, a process termed policy feedback. The third essay investigated how expert forecasts about automation's potential impact shaped Americans' beliefs about the future of work and preferences for governmental response.

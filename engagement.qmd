@@ -1,0 +1,59 @@
+---
+title: "Public Engagement"
+editor: visual
+---
+
+As a scholar at the intersection of political science and public policy, I write reports and op-ed to inform policymakers and the general public. In addition, I frequently communicate my research with the media.
+
+## Technical Reports and Policy Writing
+
+1.  "[Building Robust and Ethical Vaccination Verification Systems](https://www.brookings.edu/techstream/building-robust-and-ethical-vaccination-verification-systems/).'' (**Baobao Zhang**, Laurin Weissinger, Johannes Himmelreich, Nina McMurry, Tiffany Li, Naomi Schinerman, and Sarah Kreps), 2021, Brookings Institution.
+
+2.  "[The Immigration Preferences of Top AI Researchers: New Survey Evidence](https://global.upenn.edu/perryworldhouse/news/immigration-preferences-top-ai-researchers-new-survey-evidence).'' (Remco Zwetsloot, **Baobao Zhang**, Markus Anderljung, Michael C. Horowitz, and Allan Dafoe), 2021, Perry World House.
+
+3.  "[In Defense of Pollsters](https://fortune.com/2020/11/12/2020-election-polls-surveys-trust/).'' (**Baobao Zhang**), 2020, *Fortune*.
+
+4.  "[Contact-tracing Apps Face Serious Adoption Obstacles](https://www.brookings.edu/techstream/contact-tracing-apps-face-serious-adoption-obstacles/)." (Sarah Kreps, **Baobao Zhang**, and Nina McMurry), 2020, Brookings Institution. Cited by the [U.S. Senate](https://www.hirono.senate.gov/download/20200728-public-health-data-release).
+
+5.  "[Americans Don't Trust Contact Tracing Apps. Here's How We Can Fix That](https://fortune.com/2020/08/17/contact-tracing-privacy-coronavirus-google-apple/)." (Sarah Kreps, Nina McMurry, and **Baobao Zhang**), 2020, *Fortune*.
+
+6.  "[Contribution to a European Agenda for AI](https://medium.com/berkman-klein-center/contribution-to-a-european-agenda-for-ai-13593e71202f)." (Adrien Abecassis, Justin B. Bullock, Johannes Himmelreich, Valerie M. Hudson, Jack Loveridge, and **Baobao Zhang**), 2020, Berkman Center for Internet & Society.
+
+7.  "[Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/)." (**Baobao Zhang** and Allan Dafoe), 2019, Centre for the Governance of AI, Future of Humanity Institute, University of Oxford. Coverage by [*Vox*](https://www.vox.com/future-perfect/2019/1/9/18174081/fhi-govai-ai-safety-american-public-worried-ai-catastrophe), [*MIT Technology Review*](https://www.technologyreview.com/2019/01/10/1508/americans-want-to-regulate-ai-but-dont-trust-anyone-to-do-it/), and [*Bloomberg News*](https://www.bloomberg.com/news/articles/2019-01-10/u-s-military-trusted-more-than-google-facebook-to-develop-ai).
+
+8.  "[Public Opinion Lessons for AI Regulation](https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/)." (**Baobao Zhang**), 2019, Brookings Institution.
+
+9.  "[It's 2043. We Need a New American Dream for the A.I. Revolution](https://www.nytimes.com/2019/08/12/opinion/ubi-automation-ai.html)," (**Baobao Zhang**), August 12, 2019, *New York Times*.
+
+10. "Challenges to Democracy at Home and Abroad." (**Baobao Zhang**), 2019, Kerry Initiative, Jackson Institute for Global Affairs, Yale University.
+
+## Interviews and Public Talks
+
+1.  "The Opportunities & Challenges of COVID-19 Tracking Apps as Pandemic Control Mechanisms." 2021, University of Wisconsin. (Panelist)
+
+{{< video https://youtu.be/lY5dSKwmkK4 >}}
+
+2.  "How Social Science Research Can Inform AI Governance." 2020, EAGxVirtual. (Public talk)
+
+{{< video https://youtu.be/eTkvtHymI9s >}}
+
+3.  "Artificial Intelligence: The Global Race for the New Frontier." 2020, PBS Great Decisions in Foreign Policy. (TV documentary interview)
+
+{{< video https://youtu.be/1tdIBdZ0KSg >}}
+
+4.  "Lessons of History, Law, and Public Opinion for AI Development." 2019, Brookings Institution. (Panelist)
+
+{{< video https://youtu.be/olSN69ND2i0 >}}
+
+5.  "[Artificial Intelligence: American Attitudes and Trends with Baobao Zhang](https://soundcloud.com/futureoflife/artificial-intelligence-american-attitudes-and-trends-with-baobao-zhang?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Ffutureoflife%252Fartificial-intelligence-american-attitudes-and-trends-with-baobao-zhang)." 2019, Future of Life Institute. (Podcast interview)
+
+## Webinars That I Organized
+
+1.  "Virtual Teach-in: Responding to the Attack on the US Capitol." 2021.
+
+{{< video https://youtu.be/SeJOU4JD5KU >}}
+
+2.  "Career Advice Webinar: How to Apply to Postdocs in Political Science, Public Policy, and Law." 2020.
+
+{{< video https://youtu.be/7IN2b6GJXaA >}}
+
