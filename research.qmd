@@ -5,7 +5,7 @@ editor: visual
 
 ## Publications
 
-1.  Baobao Zhang, 2022. "[No Rage Against the Machines: Threat of Automation Does Not Change Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455501)." *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*.
+1.  **Baobao Zhang**, 2022. "[No Rage Against the Machines: Threat of Automation Does Not Change Policy Preferences](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455501)." *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*.
 
 2.  **Baobao Zhang**, 2021. ["Public Opinion Toward Artificial Intelligence](https://osf.io/284sm/)." Forthcoming in the *Oxford Handbook of Artificial Intelligence Governance*.
 
@@ -17,7 +17,7 @@ editor: visual
 
 6.  **Baobao Zhang**, Sarah Kreps, Nina McMurry, and R. Miles McCain, 2020. "[Americans' Perceptions of Privacy and Surveillance in the COVID-19 Pandemic](https://doi.org/10.1371/journal.pone.0242652)." *PLoS ONE* 15(12): e0242652. [Replication files](https://doi.org/10.7910/DVN/5UEFP6). Coverage in [*Bloomberg*](https://www.bloomberg.com/news/articles/2020-08-12/why-are-americans-so-uneasy-about-contact-tracing) and [*IEEE Spectrum*](https://spectrum.ieee.org/the-human-os/biomedical/devices/survey-finds-americans-skeptical-of-contact-tracing-apps); shared with the World Health Organization.
 
-7.  Sarah Kreps, Sandip Prasad, \..., **Baobao Zhang**, Douglas L. Kriner. "[Factors Associated with US Adults\' Likelihood of Accepting COVID-19 Vaccination: Evidence from a Choice-Based Conjoint Analysis](https://doi.org/10.1001/jamanetworkopen.2020.25594)." *JAMA Network Open*, 2020;3(10):e2025594. [Replication files](https://doi.org/10.7910/DVN/6BSJYP); [journal commentary](https://doi.org/10.1001/jamanetworkopen.2020.25672). Coverage by [*USA Today*](https://www.usatoday.com/story/news/health/2020/10/20/covid-us-willingness-take-vaccine-depends-efficacy-politics/5993550002/) and [*Vox*](https://www.vox.com/21528373/vaccine-covid-19-trial-effective-safety).
+7.  Sarah Kreps, Sandip Prasad, \..., **Baobao Zhang**, Douglas L. Kriner. "[Factors Associated with US Adults' Likelihood of Accepting COVID-19 Vaccination: Evidence from a Choice-Based Conjoint Analysis](https://doi.org/10.1001/jamanetworkopen.2020.25594)." *JAMA Network Open*, 2020;3(10):e2025594. [Replication files](https://doi.org/10.7910/DVN/6BSJYP); [journal commentary](https://doi.org/10.1001/jamanetworkopen.2020.25672). Coverage by [*USA Today*](https://www.usatoday.com/story/news/health/2020/10/20/covid-us-willingness-take-vaccine-depends-efficacy-politics/5993550002/) and [*Vox*](https://www.vox.com/21528373/vaccine-covid-19-trial-effective-safety).
 
 8.  **Baobao Zhang** and Matto Mildenberger, 2020. "[Scientists' Political Behaviors Are Not Driven by Individual-level Government Benefits](https://doi.org/10.1371/journal.pone.0230961)." *PLOS One*, 15(5):e0230961. [Replication files](https://doi.org/10.7910/DVN/HVKKHL).
 
@@ -39,8 +39,8 @@ editor: visual
 
 1.  David Knight and **Baobao Zhang**. "Housing Mobility Program Produces Two-decade Decrease in Electoral Participation Among Disadvantaged Adults."
 
-2.   Hani Mowafi, Mahmoud Hariri, **Baobao Zhang**, \..., Anas Al-Kassem. "Analysis of 193,618 Trauma Patient Presentations in War-affected Syria from July 2013 to July 2015."
+2.  Hani Mowafi, Mahmoud Hariri, **Baobao Zhang**, \..., Anas Al-Kassem. "Analysis of 193,618 Trauma Patient Presentations in War-affected Syria from July 2013 to July 2015."
 
 ## Dissertation
 
-My PhD dissertation "[Three Essays on the Politics of American Social Programs](https://thesiscommons.org/7aytg/)" presents experimental and quasi-experimental studies that examined the drivers of Americans' attitudes toward social programs. The first and second essays sought to understand how benefiting social programs (e.g., Medicare and governmental scholarships) affected voters\' political attitudes and behavior, a process termed policy feedback. The third essay investigated how expert forecasts about automation's potential impact shaped Americans' beliefs about the future of work and preferences for governmental response.
+My PhD dissertation "[Three Essays on the Politics of American Social Programs](https://thesiscommons.org/7aytg/)" presents experimental and quasi-experimental studies that examined the drivers of Americans' attitudes toward social programs. The first and second essays sought to understand how benefiting social programs (e.g., Medicare and governmental scholarships) affected voters' political attitudes and behavior, a process termed policy feedback. The third essay investigated how expert forecasts about automation's potential impact shaped Americans' beliefs about the future of work and preferences for governmental response.
