@@ -4,7 +4,7 @@ image: img/baobao_zhang.jpg
 page-layout: full
 about:
   template: trestles
-  image-width: 20em
+  image-width: 15em
   image-shape: round
   links:
     - icon: google-scholar
