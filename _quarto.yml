@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Baobao Zhang"
-  favicon: img/drawing.png
+  favicon: img/drawing.jpg
   navbar:
     right:
       - href: index.qmd
