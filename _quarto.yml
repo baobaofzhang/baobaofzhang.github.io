@@ -15,6 +15,10 @@ website:
         text: Teaching + Mentoring
       - href: engagement.qmd
         text: Public Engagement
+  page-footer:
+    right:
+      - text: "Last updated on: July 7, 2023"
+    background: "#F0EDEE"
 
 format:
   html:
