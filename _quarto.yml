@@ -18,7 +18,8 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
+    backgroundcolor: "#F0EDEE"
     css: styles.css
     toc: true
 
