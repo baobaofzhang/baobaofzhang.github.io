@@ -56,4 +56,3 @@ As a scholar at the intersection of political science and public policy, I write
 2.  "Career Advice Webinar: How to Apply to Postdocs in Political Science, Public Policy, and Law." 2020.
 
 {{< video https://youtu.be/7IN2b6GJXaA >}}
-

@@ -1,6 +1,6 @@
 ---
 title: Baobao Zhang
-image: img/baobao_zhang.jpg
+image: img/Zhang_circle.png
 page-layout: full
 about:
   template: trestles
@@ -18,8 +18,8 @@ about:
       href: https://baobaofzhang.github.io/zhang_cv.pdf
 ---
 
-I am the Maxwell Dean Assistant Professor of the Politics of AI in the [Political Science Department](https://www.maxwell.syr.edu/psc/) at the [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/), Syracuse University. I am also a [Schmidt Futures AI2050 Early Career Fellow](https://ai2050.schmidtfutures.com/) and a research affiliate with the [Centre for the Governance of AI](https://governance.ai/).
+I am the Maxwell Dean Associate Professor of the Politics of AI in the [Political Science Department](https://www.maxwell.syr.edu/psc/) at the [Maxwell School of Citizenship and Public Affairs](https://www.maxwell.syr.edu/), Syracuse University. I am a research affiliate with the [Centre for the Governance of AI](https://governance.ai/).
 
-My current research focuses on trust in digital technology and the governance of artificial intelligence (AI). I study (1) public and elite opinion toward AI and (2) how the American welfare state could adapt to the increasing automation of labor. My previous research covered a wide range of topics, including the politics of the U.S. welfare state, attitudes towards climate change, and survey methodology.
+My current research, funded by the National Science Foundation, focuses on trust in digital technology and the governance of artificial intelligence (AI). I study (1) public and elite opinion toward AI and (2) how workers, employers, and governments could adapt to the increasing automation of labor. My previous research covered a wide range of topics, including the politics of the U.S. welfare state, attitudes towards climate change, and survey methodology.
 
-I graduated with a PhD in political science (2020) and an MA in statistics (2015) from Yale University. In 2020-2021, I worked as a Klarman Postdoctoral Fellow in the Cornell Society of Fellows. In 2019-2020, I worked as a postdoctoral fellow in MIT's [Political Science Department](https://polisci.mit.edu/) and a fellow at the [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/) at Harvard University. In 2021-2023, I was a [CIFAR Azrieli Global Scholar](https://cifar.ca/cifar-azrieli-global-scholars/) in the [Innovation, Equity & The Future of Prosperity Program](https://cifar.ca/research-programs/innovation-equity-the-future-of-prosperity/).
+I graduated with a PhD in political science (2020) and an MA in statistics (2015) from Yale University. In 2020-2021, I worked as a Klarman Postdoctoral Fellow in the Cornell Society of Fellows. In 2019-2020, I worked as a postdoctoral fellow in MIT's [Political Science Department](https://polisci.mit.edu/) and a fellow at the [Berkman Klein Center for Internet and Society](https://cyber.harvard.edu/) at Harvard University. During my time as an assistant professor, I was a [CIFAR Azrieli Global Scholar](https://cifar.ca/cifar-azrieli-global-scholars/) in the [Innovation, Equity & The Future of Prosperity Program](https://cifar.ca/research-programs/innovation-equity-the-future-of-prosperity/) and a [Schmidt Futures AI2050 Early Career Fellow](https://ai2050.schmidtfutures.com/).
